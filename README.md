@@ -1,5 +1,5 @@
 # CAMP
-Here is the repository for the scripts used in developing manuscript "Genetic insights into the age-specific biological mechanisms governing human ovarian ageing".
+Here is the repository for the scripts used in the manuscript "Genetic insights into the age-specific biological mechanisms governing human ovarian ageing".
 
 Currently we list three folders:
 
